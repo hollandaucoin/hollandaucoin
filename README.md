@@ -1,9 +1,9 @@
 ### Hello, my name is Holland.
-<hr/>
+<hr width="0.5px"/>
 
 I am a determined, analytical, and creative student that has developed strong leadership, communication, and teamwork skills through various professional and volunteer experiences. I am passionate about people, with a desire to use my abilities and future career to improve the lives of others.
 
-Through the courses I have taken at Grand Canyon University thus far, I have gained knowledge in the following areas -
+I am currently a student at Grand Canyon University in Phoenix, Arizona, pursuing a Bachelor of Science in Computer Programming, scheduled to graduate in April 2021. Through the courses I have taken at Grand Canyon University thus far, I have gained knowledge in the following areas -
 
     - Languages: Java SE, JavaScript, PHP, C#, C, C++, HTML, CSS, SQL
     - Software Tools: Eclipse, SpringToolSuite4, CodeReadyStudio, Android Studio, Visual Studio, Visual Studio Code, Xcode, Postman, Swagger, MySQL Workbench, MongoDB Compass and Atlas, phpMyAdmin, Material UI, Bootstrap
