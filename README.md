@@ -1,7 +1,6 @@
 ### Hello, my name is Holland.
-<p align="center">
-	<img src="banner.png" alt="Banner"/>
-</p>
+
+<hr/>
 
 I am a determined, analytical, and creative student that has developed strong leadership, communication, and teamwork skills through various professional and volunteer experiences. I am passionate about people, with a desire to use my abilities and future career to improve the lives of others.
 
